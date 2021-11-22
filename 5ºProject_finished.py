@@ -1,3 +1,5 @@
+# JUST HAVE TO CHANGE DATABASE_ TO EITHER CHOOSE BETWEEN WIN-WIN OR LOOSE-LOOSE
+
 
 import pandas as pd
 import numpy as np
